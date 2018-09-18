@@ -3,4 +3,5 @@ Used to practice Git
 
 Some changes to push.
 
-Some more changes 
+Some more changes
+things
